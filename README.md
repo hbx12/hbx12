@@ -1,28 +1,44 @@
 # HBX
 
-I build practical automation tools around AI-assisted development workflows.
+**Cybersecurity student and builder focused on AI-assisted development tools, local-first automation, and security-conscious desktop workflows.**
 
-## Featured Project
+I build practical tools around coding agents, developer automation, VRChat community systems, and Arabic-first user experiences.
 
-### [opencode-telegram-bot](https://github.com/hbx12/opencode-telegram-bot)
+## Featured work
 
-A Telegram-based automation project focused on making coding workflows accessible from chat.
+### [Aura Work](https://github.com/hbx12/aura-work)
 
-This is the main public project I am presenting on this profile.
+Open-source desktop AI agent platform focused on local-first workflows, multi-provider AI routing, secure local vaults, sidecar architecture, and cross-platform desktop automation.
 
-Current focus:
+**Highlights**
 
-- Reliable bot commands and deployment setup
-- Clear documentation for local setup and usage
-- Safer configuration through environment variables
-- Better developer experience for future contributors
+- Tauri desktop app with TypeScript, React, and Rust
+- Multi-provider AI routing and local sidecar services
+- Security-first alpha posture with explicit limits and documented hardening
+- Cross-platform CI for Windows, macOS, and Linux
+- Secret scanning, license audit, SBOM support, and release validation work
+- Arabic and RTL interface improvements
 
-## Public Work
+### External contribution: [OpenCode RTL support](https://github.com/anomalyco/opencode/pull/32247)
 
-- [opencode-telegram-bot](https://github.com/hbx12/opencode-telegram-bot) - Telegram bot automation project
-- [novirlink-vrchat](https://github.com/hbx12/novirlink-vrchat) - VRChat-related integration project
-- [openwork](https://github.com/hbx12/openwork) - Work-in-progress public project
+Contributed full RTL layout support for Arabic and RTL languages in OpenCode, including document direction handling, RTL stylesheet coverage, and code-block LTR isolation.
 
-## Next Improvements
+### [NovirLink VRChat](https://github.com/hbx12/novirlink-vrchat)
 
-I am currently improving project presentation, documentation, setup instructions, and release quality so the public repositories are easier to evaluate and use.
+Documentation and architecture for a Discord × VRChat bridge platform focused on allowlists, bans, appeals, and community management workflows.
+
+## What I care about
+
+- Secure-by-default local tooling
+- Agentic coding workflows that remain auditable and permissioned
+- Practical automation instead of hype demos
+- Arabic-first and RTL-ready interfaces
+- Developer experience, clear docs, and release quality
+
+## Tech I work with
+
+TypeScript · React · Rust · Tauri · Node.js · GitHub Actions · SQLite · Discord.js · VRChat integrations · Security hardening · AI agents
+
+## Current focus
+
+I am tightening my public projects around better documentation, cleaner releases, stronger security boundaries, and clearer contribution paths.
