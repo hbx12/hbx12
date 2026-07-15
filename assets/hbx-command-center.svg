@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">HBX1 Command Center</title>
+  <desc id="desc">Habib, Saudi cybersecurity developer, AI systems builder and founder of NOVIR Studio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset=".55" stop-color="#0C1020"/>
+      <stop offset="1" stop-color="#090D18"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".22" cy=".35" r=".75">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".19"/>
+      <stop offset=".55" stop-color="#22D3EE" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#334155" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frameClip"><rect x="18" y="18" width="1164" height="394" rx="28"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="430" rx="30" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="29" fill="none" stroke="#334155"/>
+  <g clip-path="url(#frameClip)">
+    <rect x="18" y="18" width="1164" height="394" fill="url(#grid)"/>
+    <rect x="18" y="18" width="1164" height="394" fill="url(#glow)"/>
+    <path d="M0 358 C250 285 420 446 660 362 S1010 278 1200 342" fill="none" stroke="#8B5CF6" stroke-opacity=".16" stroke-width="2"/>
+    <path d="M-30 388 C220 305 430 466 700 382 S1020 298 1230 365" fill="none" stroke="#22D3EE" stroke-opacity=".12" stroke-width="1"/>
+    <rect x="18" y="-18" width="1164" height="44" fill="#22D3EE" opacity=".025">
+      <animate attributeName="y" values="-44;430" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <circle cx="52" cy="49" r="5" fill="#22D3EE" filter="url(#softGlow)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="68" y="55" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">NOVIR // IDENTITY NODE</text>
+  <text x="1146" y="55" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">SA-RIYADH / ONLINE</text>
+  <line x1="42" y1="74" x2="1158" y2="74" stroke="#334155"/>
+
+  <g transform="translate(48 104)">
+    <text x="0" y="34" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="4">OPERATOR</text>
+    <text x="0" y="108" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800" letter-spacing="-2">HABIB</text>
+    <text x="3" y="153" fill="url(#violet)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="29" font-weight="700" letter-spacing="9">HBX1</text>
+    <rect x="0" y="177" width="475" height="1" fill="url(#violet)" opacity=".8"/>
+    <text x="0" y="214" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="19">Cybersecurity Developer · AI Systems Builder</text>
+    <text x="0" y="244" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="17">Founder of NOVIR Studio · Saudi Arabia</text>
+
+    <g transform="translate(0 278)">
+      <rect width="250" height="38" rx="19" fill="#111827" stroke="#334155"/>
+      <circle cx="22" cy="19" r="5" fill="#22D3EE"/>
+      <text x="38" y="25" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">BUILDING REAL SYSTEMS</text>
+    </g>
+  </g>
+
+  <line x1="594" y1="98" x2="594" y2="378" stroke="#334155"/>
+  <circle cx="594" cy="119" r="3" fill="#8B5CF6"/>
+  <circle cx="594" cy="358" r="3" fill="#22D3EE"/>
+
+  <g transform="translate(632 108)">
+    <text x="0" y="24" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">ACTIVE DOMAINS</text>
+
+    <g transform="translate(0 52)">
+      <rect width="504" height="58" rx="12" fill="#0F172A" stroke="#334155"/>
+      <rect width="5" height="58" rx="2" fill="#8B5CF6"/>
+      <text x="26" y="24" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">SECURITY ENGINEERING</text>
+      <text x="26" y="44" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">THREAT MODELING · HARDENING · SAFE AUTOMATION</text>
+      <text x="474" y="36" text-anchor="end" fill="#C084FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">01</text>
+    </g>
+
+    <g transform="translate(0 122)">
+      <rect width="504" height="58" rx="12" fill="#0F172A" stroke="#334155"/>
+      <rect width="5" height="58" rx="2" fill="#22D3EE"/>
+      <text x="26" y="24" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">AI AGENT SYSTEMS</text>
+      <text x="26" y="44" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">LOCAL-FIRST · MULTI-PROVIDER · PERMISSION-GATED</text>
+      <text x="474" y="36" text-anchor="end" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">02</text>
+    </g>
+
+    <g transform="translate(0 192)">
+      <rect width="504" height="58" rx="12" fill="#0F172A" stroke="#334155"/>
+      <rect width="5" height="58" rx="2" fill="url(#violet)"/>
+      <text x="26" y="24" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">CONNECTED PLATFORMS</text>
+      <text x="26" y="44" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">WEB · DISCORD · VRCHAT · DESKTOP · OPEN SOURCE</text>
+      <text x="474" y="36" text-anchor="end" fill="#C084FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">03</text>
+    </g>
+  </g>
+
+  <path d="M32 54V32H54 M1146 32h22v22 M32 376v22h22 M1146 398h22v-22" fill="none" stroke="#475569" stroke-width="2"/>
+</svg>
