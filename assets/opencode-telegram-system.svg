@@ -20,5 +20,5 @@
     <path d="M24 53h92M24 75h66M24 97h108" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
     <path d="M214 62l28 13-28 13 7-13z" fill="#22D3EE"/>
   </g>
-  <text x="1150" y="194" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">VIEW PUBLIC WORK ↗</text>
+  <text x="1150" y="194" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">VIEW PUBLIC WORK &gt;</text>
 </svg>
