@@ -46,7 +46,7 @@
     <animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
   </circle>
   <text x="68" y="55" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">NOVIR // IDENTITY NODE</text>
-  <text x="1146" y="55" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">SA-RIYADH / ONLINE</text>
+  <text x="1146" y="55" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">SAUDI ARABIA / ONLINE</text>
   <line x1="42" y1="74" x2="1158" y2="74" stroke="#334155"/>
 
   <g transform="translate(48 104)">
