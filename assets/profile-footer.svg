@@ -1,0 +1,28 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="0.5" stop-color="#11152A"/>
+      <stop offset="1" stop-color="#17102A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="170" y1="0" x2="1030" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.24" stop-color="#22D3EE"/>
+      <stop offset="0.7" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.05"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="120" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="120" fill="url(#bg)"/>
+    <rect width="1200" height="120" fill="url(#grid)"/>
+    <rect x="170" y="24" width="860" height="2" rx="1" fill="url(#line)"/>
+    <text x="600" y="66" text-anchor="middle" fill="#F8FAFC" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="4">SECURE · BUILD · SHIP</text>
+    <text x="600" y="94" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">HBX1 — NOVIR STUDIO</text>
+  </g>
+</svg>
