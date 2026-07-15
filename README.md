@@ -4,7 +4,7 @@
 
 <br/>
 
-**أبني أنظمة حقيقية تخدم الناس — وأتعامل مع الأمان كجزء من المنتج، مو إضافة متأخرة.**
+**I build real systems for real users — with security treated as part of the product, not an afterthought.**
 
 <sub>Cybersecurity · AI Agents · Full-Stack Systems · Discord × VRChat · Open Source</sub>
 
@@ -49,10 +49,10 @@
 
 | Vector | What I actually build |
 |---|---|
-| **Secure AI agents** | Local-first automation, provider routing, approval gates, encrypted configuration and developer tools. |
-| **Product systems** | Full-stack web platforms, desktop applications, APIs, dashboards, billing and operational workflows. |
-| **Connected communities** | Discord bots, VRChat/Udon integrations, allowlists, moderation systems and persistent player experiences. |
-| **Open source** | Practical fixes, tests, documentation, security hardening and contributor-ready project structure. |
+| **Secure AI agents** | Local-first automation, provider routing, approval gates, encrypted configuration, and developer tooling. |
+| **Product systems** | Full-stack web platforms, desktop applications, APIs, dashboards, billing, and operational workflows. |
+| **Connected communities** | Discord bots, VRChat/Udon integrations, allowlists, moderation systems, and persistent player experiences. |
+| **Open source** | Practical fixes, tests, documentation, security hardening, and contributor-ready project structure. |
 
 <br/>
 
@@ -82,7 +82,7 @@
 
 - **[Aura Work](https://github.com/hbx12/aura-work)** — open-source, multi-provider desktop AI agent platform with a security-first architecture.
 - **[NovirLink VRChat](https://github.com/hbx12/novirlink-vrchat)** — public Udon integration for the NovirLink platform.
-- **[OpenCode Telegram Bot](https://github.com/hbx12/opencode-telegram-bot)** — work on remote AI coding, reliability, safety and developer experience.
+- **[OpenCode Telegram Bot](https://github.com/hbx12/opencode-telegram-bot)** — work on remote AI coding, reliability, safety, and developer experience.
 - **[OpenCode](https://github.com/hbx12/opencode)** and **[OpenWork](https://github.com/hbx12/openwork)** — public development workspaces and upstream experimentation.
 
 <br/>
@@ -111,13 +111,5 @@
 **[NOVIRLINK](https://novirlink.shop)** &nbsp;·&nbsp;
 **[NOVIRLINK MINI](https://novirlink-mini.shop)** &nbsp;·&nbsp;
 **[ALL REPOSITORIES](https://github.com/hbx12?tab=repositories)**
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hbx12&label=NODE%20VISITS&color=8B5CF6&style=flat-square" alt="HBX1 profile visits" />
-
-<br/><br/>
-
-<sub>HBX1 // NOVIR STUDIO // BUILT FROM SAUDI ARABIA 🇸🇦</sub>
 
 </div>
