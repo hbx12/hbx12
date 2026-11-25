@@ -1,45 +1,39 @@
-# HBX1
+<img src="assets/profile-header-v2.svg" width="100%" alt="HBX1 — Cybersecurity student and developer" />
 
-Cybersecurity student & developer based in Saudi Arabia.
+I build AI developer tools, desktop applications and integrations between Discord and VRChat, with an interest in application security and local-first software.
 
-I work on AI developer tools, desktop applications and integrations between Discord and VRChat. My interests are application security, local-first software and automation.
-
-[Website](https://aura-work.shop) · [NovirLink](https://novirlink.shop) · [Repositories](https://github.com/hbx12?tab=repositories)
+[Repositories](https://github.com/hbx12?tab=repositories) · [Aura Work](https://aura-work.shop) · [NovirLink](https://novirlink.shop)
 
 ## Selected projects
 
-| Project | Description |
+<div align="center">
+<a href="https://github.com/hbx12/aura-work"><img src="assets/profile-project-1-v2.svg" width="48%" alt="Aura Work" /></a>
+<a href="https://novirlink.shop"><img src="assets/profile-project-2-v2.svg" width="48%" alt="NovirLink" /></a>
+<a href="https://github.com/hbx12/novirlink-vrchat"><img src="assets/profile-project-3-v2.svg" width="48%" alt="NovirLink VRChat" /></a>
+<a href="https://github.com/hbx12/opencode-telegram-bot"><img src="assets/profile-project-4-v2.svg" width="48%" alt="OpenCode Telegram Bot" /></a>
+</div>
+
+Also building [NovirLink Mini](https://novirlink-mini.shop) and exploring open-source development with [OpenCode](https://github.com/hbx12/opencode) and [OpenWork](https://github.com/hbx12/openwork).
+
+## Areas of interest
+
+| Area | Focus |
 | :--- | :--- |
-| **[Aura Work](https://github.com/hbx12/aura-work)** | Desktop AI agent platform with multiple providers, approval controls and developer tooling. |
-| **[NovirLink](https://novirlink.shop)** | Community management platform connecting Discord and VRChat. |
-| **[NovirLink VRChat](https://github.com/hbx12/novirlink-vrchat)** | Udon integration for VRChat worlds. |
-| **[NovirLink Mini](https://novirlink-mini.shop)** | Tools and integrations for Discord communities. |
-| **[OpenCode Telegram Bot](https://github.com/hbx12/opencode-telegram-bot)** | Remote AI coding workflows through Telegram. |
+| Security | Application security, access control, approval workflows |
+| AI systems | Local models, agent tooling, provider integrations |
+| Engineering | Desktop and web applications, APIs, databases |
+| Connected environments | Discord, Unity, VRChat |
 
-## Technical interests
+## Toolchain
 
-- **Security:** application security, access control, approval workflows and secure configuration.
-- **AI systems:** local models, agent tooling, provider integrations and automation.
-- **Software engineering:** desktop and web applications, APIs and databases.
-- **Connected environments:** Discord bots, Unity and VRChat integrations.
+<img src="https://skillicons.dev/icons?i=ts,python,rust,cs,react,nextjs,nodejs,tauri,postgres,sqlite,unity,linux&amp;perline=12" alt="TypeScript, Python, Rust, C#, React, Next.js, Node.js, Tauri, PostgreSQL, SQLite, Unity, Linux" />
 
-## Tools
+<sub>TypeScript · Python · Rust · C# · React · Next.js · Node.js · Tauri · PostgreSQL · SQLite · Unity · Linux</sub>
 
-| | |
-| :--- | :--- |
-| Languages | TypeScript, JavaScript, Python, Rust, C# |
-| Applications | React, Next.js, Node.js, Tauri |
-| Data & infrastructure | PostgreSQL, SQLite, Linux, GitHub Actions |
-| Interactive environments | Unity, UdonSharp |
+## Contributions
 
-<details>
-<summary>Other repositories</summary>
-
-- [OpenCode](https://github.com/hbx12/opencode) — development and upstream experimentation.
-- [OpenWork](https://github.com/hbx12/openwork) — development and upstream experimentation.
-
-</details>
-
----
-
-[All repositories →](https://github.com/hbx12?tab=repositories)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hbx12/hbx12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hbx12/hbx12/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/hbx12/hbx12/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+</picture>
